@@ -21,7 +21,7 @@ ModernTech Solutions is a fully functional HR management web application that au
     * Backend: Node.js ,Express.js
     * Database: MySQL
     
-    * Dependencies:*
+    * Dependencies:
     * jsonwebtoken
     * bcryptjs
     * express

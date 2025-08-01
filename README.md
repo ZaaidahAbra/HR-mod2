@@ -1,5 +1,4 @@
 # ModernTech Solutions
-    ## HR - Management System
 - - - -
 [![Screenshot of Homepage](C:\Users\zaaid\Desktop\module1-Project1\frontend\src\assets\image.png)]()
 
@@ -21,7 +20,8 @@ ModernTech Solutions is a fully functional HR management web application that au
     * Frontend: Vue 3 , Tailwind CSS, Bootstrap, Axios
     * Backend: Node.js ,Express.js
     * Database: MySQL
-    *Dependencies:*
+    
+    * Dependencies:*
     * jsonwebtoken
     * bcryptjs
     * express
@@ -29,7 +29,7 @@ ModernTech Solutions is a fully functional HR management web application that au
     * nodemailer
     * cors
     * crypto
-    * `mysql2
+    * mysql2
 - - - -
 ### Prerequisites
 Requirements for the software and other tools to build, test and push
@@ -83,8 +83,7 @@ It will generate links, click the local link to see the website.
 - - - -
 ## Key Features
     * User authentication with jsonwebtoken
-    * User password are hashed with bcrypt
-    * Responsive design
+    * User password are hashed with bcryptjs
     * Employee management -ability to manage, add, update,delete employee information
     * Attendance Tracking
     * Leave Requests

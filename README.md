@@ -1,6 +1,6 @@
 # ModernTech Solutions
 - - - -
-[![Screenshot of Homepage](C:\Users\zaaid\Desktop\module1-Project1\frontend\src\assets\image.png)]()
+[![Screenshot of Homepage]()]()
 
 ModernTech Solutions is a fully functional HR management web application that automates HR functions like managing their employees information , attendance, payroll ,leave request as well as performance reviews.
 - - - -
@@ -64,17 +64,19 @@ Create a  .env file , change the password to your MySQL password
     node server.js
 ```
 This will run on http://localhost:3000
+
 6. *Run frontend*
 On the terminal ,naviaget to frontend folder and install dependencies
+
 ```bash
 cd frontend
 npm install
 ```
-Start frontend server:
+7. Start frontend server:
 ```bash
 npm run serve
 ```
-It will generate links, click the local link to see the website.
+8. It will generate links, click the local link to see the website.
 ```bash
  App running at:
   - Local:   http://localhost:8080/ 

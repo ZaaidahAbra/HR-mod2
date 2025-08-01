@@ -11,7 +11,7 @@ ModernTech Solutions is a fully functional HR management web application that au
  - [Key Features](#key-features)
  - [Login Credentials](#login-credentials)
  - [Contributing](#contributing)
- - [Github-link](#github-link)
+
 - - - -
 ## Live Demo
 [Link to the live deployed website]()

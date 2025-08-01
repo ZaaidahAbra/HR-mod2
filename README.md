@@ -26,9 +26,7 @@ ModernTech Solutions is a fully functional HR management web application that au
     * bcryptjs
     * express
     * dotenv
-    * nodemailer
     * cors
-    * crypto
     * mysql2
 - - - -
 ### Prerequisites
@@ -39,11 +37,12 @@ Requirements for the software and other tools to build, test and push
 - - - -
 ### Set up Instructions
 Follow these steps to get the HR backend running locally:
-1. *Clone the Repository*
+1. **Clone the Repository**
 ```bash
     git clone []
    ```
-3. *Install dependencies*
+3. **Install dependencies**
+   
 Navigate to backend then install dependencies
 ```bash
     cd backend

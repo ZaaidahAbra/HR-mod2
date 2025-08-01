@@ -102,5 +102,5 @@ This project is a collaborative effort by group 18:
 - *Zaaidah Abrahams*
 - *Imaad Peters*
 - *Okuhle Sotyanya*
-- *Zayyaan Salie*
+- *Zayaan Salie*
 - - - -

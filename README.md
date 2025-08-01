@@ -43,38 +43,40 @@ Follow these steps to get the HR backend running locally:
    ```
 3. **Install dependencies**
    
-Navigate to backend then install dependencies
+   Navigate to backend then install dependencies
 ```bash
     cd backend
     npm install mysql2 bcryptjs cors express dotenv jsonwebtoken
 ```
-4. ** Database setup**
-Create a  .env file , change the password to your MySQL password
+4. **Database setup**
+  Create a  .env file , change the password to your MySQL password
 ```bash
     DB_HOST=localhost
-    DB_USER=your_db_username
+    DB_USER=root
     DB_PASSWORD=your_db_password
-    DB_NAME=your_database_name
+    DB_NAME=moderntech_db
     JWT_SECRET=your_random_jwt_secret_key
     PORT=3000
 ```
-5. *Run the backend server*
+5. **Run the backend server**
 ```bash
     node server.js
 ```
-This will run on http://localhost:3000
+This server will run on http://localhost:3000
 
-6. *Run frontend*
-On the terminal ,naviaget to frontend folder and install dependencies
+6. **Run frontend**
+On the terminal ,navigate to the frontend folder and install dependencies
 
 ```bash
 cd frontend
 npm install
 ```
-7. Start frontend server:
+
+7. **Start frontend server:**
 ```bash
 npm run serve
 ```
+
 8. It will generate links, click the local link to see the website.
 ```bash
  App running at:

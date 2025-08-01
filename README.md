@@ -1,7 +1,5 @@
 # ModernTech Solutions
 - - - -
-[![Screenshot of Homepage]()]()
-
 ModernTech Solutions is a fully functional HR management web application that automates HR functions like managing their employees information , attendance, payroll ,leave request as well as performance reviews.
 - - - -
 ## Table of Contents
@@ -85,8 +83,7 @@ npm run serve
 ```
 - - - -
 ## Key Features
-    * User authentication with jsonwebtoken
-    * User password are hashed with bcryptjs
+    * Login page with password
     * Employee management -ability to manage, add, update,delete employee information
     * Attendance Tracking
     * Leave Requests
